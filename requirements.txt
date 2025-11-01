@@ -1,0 +1,31 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+flask-restx
+flask-restful
+Werkzeug
+
+numpy
+pandas
+scikit-learn
+scipy
+pillow
+requests
+python-dotenv
+firebase-admin
+redis
+opencv-python
+h5py
+
+# ML/AI
+transformers
+torch
+torchvision
+tensorflow
+keras
+timm
+
+# Auth/util
+markupsafe
+python-dateutil
+bcrypt
